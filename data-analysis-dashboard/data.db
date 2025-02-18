@@ -1,0 +1,7 @@
+CREATE TABLE sales (
+    id INTEGER PRIMARY KEY,
+    date TEXT,
+    product TEXT,
+    quantity INTEGER,
+    price REAL
+);
